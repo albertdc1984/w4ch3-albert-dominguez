@@ -81,7 +81,7 @@ li {
   text-decoration: none;
   color: inherit;
   cursor: default;
-  opacity: 0.5;
+  opacity: 0;
   transform: scale(0.9);
   transition: all 0.2s ease-out;
 }
