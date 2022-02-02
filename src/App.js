@@ -1,3 +1,4 @@
+import { useState } from "react";
 import Actions from "./components/Actions/Actions";
 import Display from "./components/Display/Display";
 import Keyboard from "./components/Keyboard/Keyboard";
